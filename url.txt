@@ -1,0 +1,1 @@
+real_time_eng_dic_questions/res/LIBU-Eng-0-KST/HCLG.fst http://ai-servitization-test.oss-cn-beijing.aliyuncs.com/AI_OpenSource%2Freal_time_eng_dic_questions%2Fres%2FLIBU-Eng-0-KST%2FHCLG.fst?OSSAccessKeyId=LTAI4FoGCvbhbuDm8eQm5peZ&Expires=1697554213&Signature=V7ZWYGvABreUYKmaLW9yTm4xa8U%3D
